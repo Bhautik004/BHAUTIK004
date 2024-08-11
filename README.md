@@ -46,6 +46,7 @@
 
 </details>
 
+[website]: http://bhautik.xyz/
 [twitter]: https://twitter.com/BHAUTIK73279655
 [instagram]: https://www.instagram.com/mr.bhautik_chodvadiya04/
 [linkedin]: https://www.linkedin.com/in/bhautik-chodvadiya%F0%9F%9A%80-1a3a73167/
