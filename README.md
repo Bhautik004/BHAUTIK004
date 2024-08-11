@@ -2,13 +2,12 @@
 
 ## I'm a Developer!
 
-- 🔭 I’m currently learning Vue js!
-- 🥅 2020 Goals: Become proficient in python
+- 🔭 I’m currently learning Python 
+- 🥅 2024 Goals: Become proficient in python
 - ⚡ Fun fact: I love streaming games
 
 ### Connect with me:
 
-[<img align="left" alt="http://bhautik.xyz/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Bhautik | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Bhautik | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Bhautik | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -47,7 +46,6 @@
 
 </details>
 
-[website]: http://bhautik.xyz/
 [twitter]: https://twitter.com/BHAUTIK73279655
 [instagram]: https://www.instagram.com/mr.bhautik_chodvadiya04/
-[linkedin]: https://www.linkedin.com/in/bhautik-patel-1a3a73167/
+[linkedin]: https://www.linkedin.com/in/bhautik-chodvadiya%F0%9F%9A%80-1a3a73167/
